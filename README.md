@@ -1,39 +1,32 @@
-LAB - React Native - Milestone 1: MVP
-Create your first native phone/device application using React Native, tapping into at least 2 phone features.
+# LAB - React Native - Compass
 
-Before you begin
-Refer to Getting Started in the lab submission instructions for complete setup, configuration, deployment, and submission instructions.
+# Basic Compass Application
 
-Getting Started
-Confirm the following
+### Author: Pratiibh Bassi
 
-Install XCode (Mac Users)
-Install Android Studio (All Users)
-Install 1 device emulator
-Install expo-cli
-Create an account at expo.io
-Create a login for snack.expo.io
-Create google play and apple developer accounts
-Assignment
-Create your first Phone App. What it does and how it looks is up to you.
+### Using Expo Client, create a ReactNative application that uses the Magnetometer and visually displays a compass on the screen.
 
-Application Requirements
-Use 2 screens
-Use and share state between components/screens
-Use at least 1 native device feature (contacts, camera, gps, etc)
-Properly Documented for End Users
-Live Demo
-Milestone 1 - MVP (This Lab)
-Deliver your MVP for raw functionality
-Your dev environment should be properly working
-Other users should be able to scan your QR and see your app on any device
-All of your core “features” should be working properly
-Un-Styled is fine. We’re looking for things to buzz, light up, detect movement, etc.
-Documentation
-For this assignment, instead of writing developer documentation, write end user documentation.
+### Links and Resources
 
-“How do I use this application”
+- [submission PR](https://github.com/pratiibh-401-advanced-javascript/ReactNative/pull/1)
 
-We recommend using the “Steve Jobs” standards, which is to say that your app should be so easy to use and should do such an obvious thing that documentation isn’t required.
+### Main Topic
 
-That said … it’s required. Shoot for the Jobs standard, but document this like you’re going to sell it on the App Store (you might)
+- Compass Application
+
+What problems do we need to solve for?
+
+- Use 2 screens
+- Use and share state between components/screens
+- Use at least 1 native device feature (contacts, camera, gps, etc)
+
+### Learning Objectives
+
+- Create a rules based application
+- Authorize using both "Basic Authorization" and a "Bearer Token"
+- Store a login token for re-use
+- Hide and Show components, links, pages based on both login status and permissions
+
+### Running the App
+
+- expo start
